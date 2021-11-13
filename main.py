@@ -38,3 +38,37 @@
 # self.geometry(): -> sets the size of our window in pixels,
 # in the format x * y (width x height).
 # self.resizable(): -> sets whether the program window can be resized (True or False)
+
+
+
+
+# Documenting specification requirements
+
+# The purpose of the specification is:
+# To give EVERYONE INVOLVED IN THE PROJECT a point of REFERENCE for what the developer will create.
+# It spells out:
+# 1. the problem to be solved
+# 2. the functionality required
+# 3. the scope of what the program should and shouldn't do.
+
+
+# Contents of a simple specification:
+
+# 1. Description: One / two sentences,
+# describe the primary purpose, function, and goals of the application (the program's mission statement).
+
+# 2. Functionality required: A list of specific things
+# the program needs to be able to do to be minimally functional.
+# Includes both hard requirements-detailed output and input formats, and
+# soft requirements—goals that are not quantifiable attainable, but that the program should strive toward.
+
+# 3. Functionality not required: A list of things the program does not need to do.
+# It exists to clarify the scope of the software,
+# and make sure NOBODY EXPECTS unreasonable things from the application.
+
+# 4. Limitations: A list of constraints under which the program must operate, both technological and human.
+
+# 5. Data dictionary: A detailed list of the data fields
+# the application will deal with and their parameters.
+# These can get quite lengthy but are a CRITICAL REFERENCE
+# as the application expands and the data gets utilized in other contexts.
